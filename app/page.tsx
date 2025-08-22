@@ -5,6 +5,7 @@ import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 import styles from '@/app/ui/home.module.css';
 
+// https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
 
 export default function Page() {
   return (
